@@ -1,4 +1,4 @@
-a = 5
-b = 6
-c = a + b
-print(c)
+a=5
+b=7
+c=a+b
+print (c)
