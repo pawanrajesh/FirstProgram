@@ -1,0 +1,8 @@
+print ("Length of hello world is:", len("hello world"))
+print ("Lenght of Name Rajesh is:",len("Rajesh"))
+print("length of the name is:", len("pawan"))
+print ("length of the name Yogeshwari is:", len ("Yogeshwari"))
+print ("length of the name vivaan", len ("vivaan"))
+print ("length of name viki",len ("viki"))
+print ("length of name transformers",len ("transformers"))
+print ("lenth of the name computers",len ("computers"))
